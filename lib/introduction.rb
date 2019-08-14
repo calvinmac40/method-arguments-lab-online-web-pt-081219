@@ -1,1 +1,2 @@
-def person
+def introduction(name)
+  puts ""
